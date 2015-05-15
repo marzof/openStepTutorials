@@ -21,6 +21,38 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient9560">
+      <stop
+         style="stop-color:#e3dbdb;stop-opacity:1"
+         offset="0"
+         id="stop9562" />
+      <stop
+         id="stop9564"
+         offset="0.27760264"
+         style="stop-color:#e3dbdb;stop-opacity:1" />
+      <stop
+         style="stop-color:#6c5353;stop-opacity:1"
+         offset="1"
+         id="stop9566" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8574"
+       inkscape:collect="always">
+      <stop
+         id="stop8576"
+         offset="0"
+         style="stop-color:#483737;stop-opacity:1" />
+      <stop
+         style="stop-color:#483737;stop-opacity:1"
+         offset="0.76871437"
+         id="stop8578" />
+      <stop
+         id="stop8580"
+         offset="1"
+         style="stop-color:#241c1c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient5590">
       <stop
          style="stop-color:#241c1c;stop-opacity:1"
@@ -259,6 +291,67 @@
        fy="147.6351"
        r="18.327106"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8574"
+       id="radialGradient8572"
+       gradientUnits="userSpaceOnUse"
+       cx="109.75484"
+       cy="134.2865"
+       fx="109.75484"
+       fy="134.2865"
+       r="3.8026757" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9560"
+       id="linearGradient9558"
+       gradientUnits="userSpaceOnUse"
+       x1="106.30906"
+       y1="137.77634"
+       x2="113.2233"
+       y2="130.86211" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9576"
+       x="-0.036"
+       width="1.072"
+       y="-0.036"
+       height="1.072">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11408027"
+         id="feGaussianBlur9578" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8574"
+       id="radialGradient8572-9"
+       gradientUnits="userSpaceOnUse"
+       cx="109.75484"
+       cy="134.2865"
+       fx="109.75484"
+       fy="134.2865"
+       r="3.8026757" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8574"
+       id="radialGradient9694"
+       gradientUnits="userSpaceOnUse"
+       cx="109.75484"
+       cy="134.2865"
+       fx="109.75484"
+       fy="134.2865"
+       r="3.8026757" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9560"
+       id="linearGradient9696"
+       gradientUnits="userSpaceOnUse"
+       x1="106.30906"
+       y1="137.77634"
+       x2="113.2233"
+       y2="130.86211" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -267,11 +360,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.0326182"
-     inkscape:cx="407.67028"
-     inkscape:cy="577.44594"
+     inkscape:zoom="6.0652364"
+     inkscape:cx="414.74505"
+     inkscape:cy="613.47095"
      inkscape:document-units="mm"
-     inkscape:current-layer="g6206"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="719"
@@ -361,25 +454,25 @@
     <image
        sodipodi:absref="/home/mf/Documents/grillo-phone/img/grilloDra-keyboard.png"
        xlink:href="img/grilloDra-keyboard.png"
-       y="91.794205"
-       x="85.906425"
-       id="image3671"
-       preserveAspectRatio="none"
+       width="47.413334"
        height="100.47112"
-       width="47.413334" />
+       preserveAspectRatio="none"
+       id="image3671"
+       x="85.906425"
+       y="91.794205" />
     <image
        sodipodi:absref="/home/mf/Documents/grillo-phone/img/grilloPic-keyboard.jpg"
        xlink:href="img/grilloPic-keyboard.jpg"
-       y="-66.517372"
-       x="84.455933"
-       id="image4032"
-       style="stroke-width:2.26323867;image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="52.996819"
-       width="149.63806"
-       transform="rotate(90)"
+       inkscape:transform-center-y="64.114255"
        inkscape:transform-center-x="0.75287584"
-       inkscape:transform-center-y="64.114255" />
+       transform="rotate(90)"
+       width="149.63806"
+       height="52.996819"
+       preserveAspectRatio="none"
+       style="stroke-width:2.26323867;image-rendering:optimizeQuality"
+       id="image4032"
+       x="84.455933"
+       y="-66.517372" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -466,13 +559,14 @@
          cy="134.2865"
          cx="109.75484"
          id="path6194"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient8572);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient9558);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter9576)" />
       <circle
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient9694);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient9696);stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter9576);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="circle6196"
          cx="109.75484"
          cy="134.2865"
-         r="2.2912185" />
+         r="2.2912185"
+         transform="rotate(-118.42575,109.75484,134.2865)" />
     </g>
     <use
        x="0"
