@@ -44,7 +44,44 @@
      inkscape:object-nodes="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="false"
-     guidetolerance="10" />
+     guidetolerance="10">
+    <sodipodi:guide
+       position="109.75484,127.61421"
+       orientation="1,0"
+       id="guide3700" />
+    <sodipodi:guide
+       position="115.09375,201.83929"
+       orientation="0,1"
+       id="guide3702" />
+    <sodipodi:guide
+       position="111.59747,172.78237"
+       orientation="0,1"
+       id="guide3704" />
+    <sodipodi:guide
+       position="113.81808,120.05469"
+       orientation="0,1"
+       id="guide3706" />
+    <sodipodi:guide
+       position="118.53403,195.6413"
+       orientation="0,1"
+       id="guide3708" />
+    <sodipodi:guide
+       position="136.57473,142.45466"
+       orientation="0,1"
+       id="guide3710" />
+    <sodipodi:guide
+       position="127.08666,126.01759"
+       orientation="1,0"
+       id="guide3712" />
+    <sodipodi:guide
+       position="130.96207,141.11831"
+       orientation="1,0"
+       id="guide3714" />
+    <sodipodi:guide
+       position="125.20461,195.64131"
+       orientation="0.98582546,0.16777415"
+       id="guide3801" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
