@@ -242,8 +242,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0326182"
-     inkscape:cx="411.06311"
-     inkscape:cy="570.9851"
+     inkscape:cx="414.40924"
+     inkscape:cy="578.56828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -306,6 +306,14 @@
        position="107.76039,186.37805"
        orientation="0,1"
        id="guide3981" />
+    <sodipodi:guide
+       position="112.11091,149.36489"
+       orientation="0,1"
+       id="guide6179" />
+    <sodipodi:guide
+       position="113.15786,162.7135"
+       orientation="0,1"
+       id="guide6181" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -417,5 +425,109 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="tastiera" />
+     inkscape:label="tastiera">
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path6183"
+       sodipodi:sides="10"
+       sodipodi:cx="109.75484"
+       sodipodi:cy="147.63512"
+       sodipodi:r1="13.34861"
+       sodipodi:r2="6.5585189"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-1.256637"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 109.75484,134.28651 7.84611,2.54935 4.84917,6.67431 0,8.24989 -4.84917,6.67431 -7.84611,2.54936 -7.84612,-2.54936 -4.849166,-6.67431 10e-7,-8.24989 4.849165,-6.67431 z"
+       inkscape:transform-center-y="-1.2746807" />
+    <g
+       id="g6206">
+      <circle
+         r="3.8026757"
+         cy="134.2865"
+         cx="109.75484"
+         id="path6194"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle6196"
+         cx="109.75484"
+         cy="134.2865"
+         r="2.2912185" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6206"
+       id="use6216"
+       transform="translate(7.8461163,2.5493655)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6216"
+       id="use6218"
+       transform="translate(4.8491663,6.6743051)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6218"
+       id="use6220"
+       transform="translate(-2.5852427e-7,8.2498946)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6220"
+       id="use6222"
+       transform="translate(-4.8491666,6.6743048)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6222"
+       id="use6224"
+       transform="translate(-7.8461131,2.5493565)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6224"
+       id="use6226"
+       transform="translate(-7.846119,-2.5493569)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6226"
+       id="use6228"
+       transform="translate(-4.8491662,-6.6743051)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6228"
+       id="use6230"
+       transform="translate(2.1704853e-7,-8.2498946)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use6230"
+       id="use6232"
+       transform="translate(4.8491666,-6.6743048)"
+       width="100%"
+       height="100%" />
+  </g>
 </svg>
