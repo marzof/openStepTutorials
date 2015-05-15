@@ -375,6 +375,19 @@
          stdDeviation="0.41424603"
          id="feGaussianBlur9844" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10055"
+       x="-0.1092"
+       width="1.2184"
+       y="-0.1092"
+       height="1.2184">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.34604349"
+         id="feGaussianBlur10057" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -383,11 +396,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.0652364"
-     inkscape:cx="412.02078"
-     inkscape:cy="608.80933"
+     inkscape:zoom="4.2887698"
+     inkscape:cx="411.80865"
+     inkscape:cy="608.7038"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g6206"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="719"
@@ -477,25 +490,25 @@
     <image
        sodipodi:absref="/home/mf/Documents/grillo-phone/img/grilloDra-keyboard.png"
        xlink:href="img/grilloDra-keyboard.png"
-       width="47.413334"
-       height="100.47112"
-       preserveAspectRatio="none"
-       id="image3671"
+       y="91.794205"
        x="85.906425"
-       y="91.794205" />
+       id="image3671"
+       preserveAspectRatio="none"
+       height="100.47112"
+       width="47.413334" />
     <image
        sodipodi:absref="/home/mf/Documents/grillo-phone/img/grilloPic-keyboard.jpg"
        xlink:href="img/grilloPic-keyboard.jpg"
-       inkscape:transform-center-y="64.114255"
-       inkscape:transform-center-x="0.75287584"
-       transform="rotate(90)"
-       width="149.63806"
-       height="52.996819"
-       preserveAspectRatio="none"
-       style="stroke-width:2.26323867;image-rendering:optimizeQuality"
-       id="image4032"
+       y="-66.517372"
        x="84.455933"
-       y="-66.517372" />
+       id="image4032"
+       style="stroke-width:2.26323867;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="52.996819"
+       width="149.63806"
+       transform="rotate(90)"
+       inkscape:transform-center-x="0.75287584"
+       inkscape:transform-center-y="64.114255" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -577,6 +590,20 @@
     <g
        id="g6206"
        style="opacity:1">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26177779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter10055)"
+         id="circle10017"
+         cx="109.75484"
+         cy="134.2865"
+         r="3.8026757"
+         transform="matrix(1.1460101,0,0,1.1460101,-16.025317,-19.607188)" />
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26912677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter9576);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle9977"
+         cx="109.75484"
+         cy="134.2865"
+         r="3.8026757"
+         transform="matrix(1.1147164,0,0,1.1147164,-12.590678,-15.404862)" />
       <circle
          r="3.8026757"
          cy="134.2865"
