@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -25,17 +26,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="499.25107"
-     inkscape:cy="627.58986"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="479.68502"
+     inkscape:cy="595.21445"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="720"
-     inkscape:window-x="0"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="340"
      inkscape:window-y="283"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     guidetolerance="10" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -51,5 +60,15 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <image
+       sodipodi:absref="/home/mf/Documents/grillo-phone/img/grilloDra-keyboard.png"
+       xlink:href="img/grilloDra-keyboard.png"
+       width="47.413334"
+       height="100.47112"
+       preserveAspectRatio="none"
+       id="image3671"
+       x="85.906425"
+       y="91.794205" />
+  </g>
 </svg>
